@@ -26,19 +26,6 @@ Before we start, you'll need:
 - **Text Editor**: Any basic text editor will do, but if you want suggestions, [Visual Studio Code](https://code.visualstudio.com/) is a great option.
 - **Command Line Basics**: Familiarity with basic command line operations will be helpful.
 
-## Installation
-
-First, we need to set up our tools:
-
-1. **Install Whisper-JAX**:
-
-    Open your command line interface (CLI) and run:
-
-    ```shell
-    pip install whisper-jax
-    ```
-
-    This command installs the Whisper-JAX library, which we'll use for audio transcription.
 
 ## Prepare Your Development Environment
 
